@@ -1,3 +1,3 @@
 module queue-management
 
-go 1.22.4
+ggo 1.20
